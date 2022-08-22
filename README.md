@@ -57,10 +57,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Code-Killer" target="_blank">
+<a href="https://github.com/Yuvraj-777" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/harshitkvlogs" target="_blank">
+<a href="https://www.youtube.com/TeamZero0_0" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/D6SFg5XHYu" target="_blank">
@@ -78,13 +78,13 @@
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/Code-Killer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj Singh&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/Yuvraj-777"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj Singh&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 
 ![](https://avatars.githubusercontent.com/u/83761474?s=400&u=da51cb17eaeb28b0a969170f0acd36866c87ef1a&v=4)
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/D6SFg5XHYu)
-## [**Youtube Channel Link**](https://www.youtube.com/harshitkvlogs)
+## [**Youtube Channel Link**](https://www.youtube.com/TeamZero0_0)
 
 # SUPPORT ME
 
