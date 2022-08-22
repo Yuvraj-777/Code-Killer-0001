@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yuvraj Singh aka Code-Killer, </div>  
+### <div align="center">I'm Yuvraj Singh </div>  
   
 
 - 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
