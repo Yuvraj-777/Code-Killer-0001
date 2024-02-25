@@ -6,18 +6,21 @@
 ### <div align="center">I'm Yuvraj Singh </div>  
   
 
-- 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
+- 🔭 I’m currently working on My Portfolio and Bio Website.
   
 
-- 🌱 I’m currently coding in Javascript   and CSS and HTML..
+- 🌱 I’m currently coding in Javascript and CSS and HTML..
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping!.
+- ❓  I am in love with coding Discord Bots, I also love helping!
   
 
   
 
 <br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Yuvraj-777&&style=flat-square" align="center" />
+</div>  
 
 
 ## My Skill Set  
@@ -90,6 +93,4 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 <br> 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314sllmv3rnyjxzskqfn5blfjs3i&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Yuvraj-777&&style=flat-square" align="center" />
-</div>  
+
