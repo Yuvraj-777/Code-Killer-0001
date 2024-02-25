@@ -72,19 +72,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<i>Happy Coding Dear Friends!</i> 😊
 
-<br/>  
+</div>
 
-<div align="center">
-<p><a href="https://github.com/Yuvraj-777"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj Singh&amp;layout=compact" alt="Top Langs"></a></p></div>  
-  
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-777&layout=compact&theme=dracula" alt="Yuvraj's Github"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-777&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yuvraj-777's Github"><br>
 
-![](https://avatars.githubusercontent.com/u/83761474?s=400&u=da51cb17eaeb28b0a969170f0acd36866c87ef1a&v=4)
+<i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/D6SFg5XHYu)
-## [**Youtube Channel Link**](https://www.youtube.com/TeamZero0_0)
-
-# SUPPORT ME
-
+<br>
