@@ -72,7 +72,7 @@
 <br/>  
 
 
-<i>Happy Coding Dear Friends!</i> 😊
+<center><i>Happy Coding Dear Friends!</i> 😊 </center>
 
 </div>
 
